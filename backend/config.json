@@ -1,0 +1,10 @@
+{
+    "database": {
+        "user": "YOUR_USER",
+        "pass": "YOUR_PASS",
+        "base": "YOUR_DATABASE_NAME"
+    },
+    "server": {
+        "node_port": "YOUR_APP_PORT"
+    }
+}
