@@ -11,7 +11,7 @@ Nesta aula foi desenvolvido uma API utilizando o NodeJS junto com outras ferrame
 
 ### Aula 02 - Front-end
 
-Aula será liberada no dia 07/08
+Foi desenvolvido o frontend utilizando o ReactJS, onde foi apresentado os conceitos de Componente, Estado e Propriedade. Foi utilizado também hooks, eles permitem que você use o state e outros recursos do React sem escrever uma classe.
 
 ### Aula 03 - Mobile
 
