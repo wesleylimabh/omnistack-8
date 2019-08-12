@@ -15,7 +15,7 @@ Foi desenvolvido o frontend utilizando o ReactJS, onde foi apresentado os concei
 
 ### Aula 03 - Mobile
 
-Aula será liberada no dia 08/08
+Nesta aula foi desenvolvido a aplicação mobile do Tindev utilizando react native.
 
 ### Aula 04 - Funcionalidades avançadas
 
